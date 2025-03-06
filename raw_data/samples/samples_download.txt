@@ -1,0 +1,3 @@
+The samples used can be found in the .tar file here: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE171524
+
+
