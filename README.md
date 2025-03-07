@@ -5,7 +5,7 @@ The data used in this analysis comes from [this study](https://www.nature.com/ar
 - **Preprocessing**: Doublet removal, mitochondrial and ribosomal gene labeling, quality control (QC), and normalization.
 - **Integration**: Performed using scVI.
 - **Clustering**: Applied the Leiden algorithm.
-- **Cell Annotation**: Manually curated using [PanglaoDB](panglaodb.se) and [DAVID](davidbioinformatics.nih.gov).
+- **Cell Annotation**: Done manually using [PanglaoDB](panglaodb.se) and [DAVID](davidbioinformatics.nih.gov).
 - **Data Analysis & Visualization**: Conducted with Scanpy.
 
 # Requirements:
