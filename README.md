@@ -22,10 +22,10 @@ The data used in this analysis comes from [this study](https://www.nature.com/ar
 - Dataset [GSE171524](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE171524).
 - [Sambomics](https://www.youtube.com/watch?v=uvyG9yLuNSE).
 - [List of Ribosome Genes](https://www.gsea-msigdb.org/gsea/msigdb/human/geneset/KEGG_RIBOSOME.html).
-- scanpy.readthedocs.io/en/stable/tutorials/basics/clustering.html
-- sc-best-practices.org/preprocessing_visualization/quality_control.html
-- docs.scvi-tools.org/en/stable/tutorials/notebooks/scrna/scVI_DE_worm.html
-- sc-best-practices.org/cellular_structure/annotation.html
-- panglaodb.se
-- davidbioinformatics.nih.gov
-- scanpy.readthedocs.io/en/stable/tutorials/plotting/core.html
+- [scanpy.readthedocs.io/en/stable/tutorials/basics/clustering.html](scanpy.readthedocs.io/en/stable/tutorials/basics/clustering.html)
+- [sc-best-practices.org/preprocessing_visualization/quality_control.html](sc-best-practices.org/preprocessing_visualization/quality_control.html)
+- [docs.scvi-tools.org/en/stable/tutorials/notebooks/scrna/scVI_DE_worm.html](docs.scvi-tools.org/en/stable/tutorials/notebooks/scrna/scVI_DE_worm.html)
+- [sc-best-practices.org/cellular_structure/annotation.html](sc-best-practices.org/cellular_structure/annotation.html)
+- [panglaodb.se](panglaodb.se)
+- [davidbioinformatics.nih.gov](davidbioinformatics.nih.gov)
+- [scanpy.readthedocs.io/en/stable/tutorials/plotting/core.html](scanpy.readthedocs.io/en/stable/tutorials/plotting/core.html)
