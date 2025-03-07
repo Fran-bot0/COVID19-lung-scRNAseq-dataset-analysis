@@ -1,2 +1,15 @@
-# COVID19_scRNA-Seq_Dataset_Analysis
-Analysis of a scRNA-seq dataset about the impacts of COVID19 on lung tissue.
+# COVID19_scRNA-Seq_Datase
+This Jupyter Notebook presents an analysis of an scRNA-seq dataset exploring the effects of COVID-19 on lung tissue. It covers preprocessing, integration, cell annotation, clustering, data analysis, and visualization.
+
+## Analysis Overview:
+- **Preprocessing**: Doublet removal, mitochondrial and ribosomal gene labeling, quality control (QC), and normalization.
+- **Integration**: Performed using scVI.
+- **Clustering**: Applied the Leiden algorithm.
+- **Cell Annotation**: Manually curated using PanglaoDB and DAVID.
+- **Data Analysis & Visualization**: Conducted with Scanpy.
+
+
+
+
+
+
